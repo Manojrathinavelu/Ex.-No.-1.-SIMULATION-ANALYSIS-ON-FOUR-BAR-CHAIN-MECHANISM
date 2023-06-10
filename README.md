@@ -48,8 +48,8 @@
 
 ## Output:
 
- Name: R Manoj karthik
- Register Number: 212222240061
+ ### Name: R Manoj karthik
+ ### Register Number: 212222240061
  
 ![Screenshot 2023-06-10 112256](https://github.com/Manojrathinavelu/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119560395/044a7918-6672-42b7-a152-0e8415ab274c)
 
